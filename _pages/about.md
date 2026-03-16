@@ -25,6 +25,7 @@ Dr. Singh teaches the core course in AI applications, Information Technology, Us
 
 At the College of Communication and Information, Dr. Singh has received four college-level awards in Innovative Technology Teaching, exemplary Service, and extraordinary Research achievements. Dr. Singh received an outstanding administrator award from the College of Emerging and Collaborative Studies in 2025. 
 
-Dr. Singh received the CCI Service and Outreach Award in 2019. SIS did a story about Dr. Singh; please click on the image below to read the story.
+Dr. Singh has received multiple research grants from federal agencies, including the National Science Foundation (NSF), the Institute of Museum and Library Services (IMLS), and the United States Geological Society (USGS) and Google. Her research has been published, recognized, and awarded in national and international conferences and journals. Please read more details about her research here.
+
 
 
