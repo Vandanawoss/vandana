@@ -20,8 +20,8 @@ Work experience
 ======
 * <p>School of Information Sciences, University of Tennessee, Knoxville </p>- <B>Professor,</B> July 2022 - current
 
-* <p>College of Emerging and Collaborative Studies, University of Tennessee, Knoxville </p>- <B>Assistant Dean, Faculty Affairs and New Programs,</B> July 2024 - June 2025
-    <p>- <B>Program Director,</B> July 2023 - June 2024
+* <p>College of Emerging and Collaborative Studies, University of Tennessee, Knoxville </p>- <B>Assistant Dean, Faculty Affairs and New Programs,</B> July 2024 - June 2025</p>
+    <p> <B>Program Director,</B> July 2023 - June 2024
     
 * <p>College of Communication, University of Tennessee, Knoxville - </p>- <B>Director of Diversity, Equity, and Inclusion</B>, July 2022 – June 2023
 
@@ -32,11 +32,11 @@ Work experience
     <p>-<B>Coordinator</B>, Information Science and Technology Minor, 				Aug 2008 to July 2011</P>
     <p>-<B>Assistant Professor</B>, 								Aug 2008 to July 2014</P>
 
-* Department of Information Science, University of North Texas</P>
+* Department of Information Science, University of North Texas</p>
     <p>  <B>Assistant Professor</B>, 								Aug 2007 to July 2008</P>
     <p>  <B>Coordinator</B>, Digital Imaging Track 						, Aug 2007 to July 2008</P>
 
-* iSchool at the University of Illinois at Urbana-Champaign
+* iSchool at the University of Illinois at Urbana-Champaign</p>
     <p>  Instructor, Undergraduate Minor 							Aug 2006 to July 2007</P>
     <p>  Research Assistant, 								August 2003-July 2004 </P>
     <p>  Teaching Assistant, Graduate, and Undergraduate,		    	2001-2002, 2002-2003, 2005-2006</P>
