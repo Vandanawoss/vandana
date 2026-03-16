@@ -25,12 +25,12 @@ Work experience
     
 * <p>College of Communication, University of Tennessee, Knoxville - </p>- <B>Director of Diversity, Equity, and Inclusion</B>, July 2022 – June 2023
 
-* <p>School of Information Sciences, University of Tennessee, Knoxville: </p>
-<p>-<B>Professor</B>, July 2022 - current; Associate Professor, Aug 2014 to June 2022</p>
-<p>-<B>Director of Undergraduate Studies</B>,						May 2017 to April 2019</P>
-<p>-<B>Acting Associate Director</B>, School of Information Sciences, Jan 2013 to Aug 2013</P>
-<p>-<B>Coordinator</B>, Information Science and Technology Minor, 				Aug 2008 to July 2011</P>
-<p>-<B>Assistant Professor</B>, 								Aug 2008 to July 2014</P>
+* School of Information Sciences, University of Tennessee, Knoxville: </p>
+    <p>-<B>Professor</B>, July 2022 - current; Associate Professor, Aug 2014 to June 2022</p>
+    <p>-<B>Director of Undergraduate Studies</B>,						May 2017 to April 2019</P>
+    <p>-<B>Acting Associate Director</B>, School of Information Sciences, Jan 2013 to Aug 2013</P>
+    <p>-<B>Coordinator</B>, Information Science and Technology Minor, 				Aug 2008 to July 2011</P>
+    <p>-<B>Assistant Professor</B>, 								Aug 2008 to July 2014</P>
 
 * Department of Information Science, University of North Texas</P>
 <p>  <B>Assistant Professor</B>, 								Aug 2007 to July 2008</P>
