@@ -22,7 +22,7 @@ Work experience
 * <p>College of Emerging and Collaborative Studies, University of Tennessee, Knoxville </p>- <B>Assistant Dean, Faculty Affairs and New Programs,</B> July 2024 - June 2025
     <p>- <B>Program Director,</B> July 2023 - June 2024
 * <p>College of Communication, University of Tennessee, Knoxville - </p>- <B>Director of Diversity, Equity, and Inclusion</B>, July 2022 – June 2023
-*School of Information Sciences, University of Tennessee, Knoxville: </p>
+* School of Information Sciences, University of Tennessee, Knoxville: </p>
  <p>-<B>Professor</B>, July 2022 - current; Associate Professor, Aug 2014 to June 2022</p>
 <p>-<B>Director of Undergraduate Studies</B>,						May 2017 to April 2019</P>
 <p>-<B>Acting Associate Director</B>, School of Information Sciences, Jan 2013 to Aug 2013</P>
