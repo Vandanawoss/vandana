@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* <p><u>School of Information Sciences, University of Tennessee, Knoxville</p> </u> </p>- <B>Professor,</B> July 2022 - current
+* <p><u>School of Information Sciences, University of Tennessee, Knoxville </u> </p>- <B>Professor,</B> July 2022 - current
 
 * <p><u>College of Emerging and Collaborative Studies, University of Tennessee, Knoxville</u> </p>- <B>Assistant Dean, Faculty Affairs and New Programs,</B> July 2024 - June 2025
     <p> <B>Program Director,</B> July 2023 - June 2024
