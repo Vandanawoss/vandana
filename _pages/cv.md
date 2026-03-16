@@ -33,13 +33,13 @@ Work experience
     <p>-<B>Assistant Professor</B>, 								Aug 2008 to July 2014</P>
 
 * Department of Information Science, University of North Texas</P>
-<p>  <B>Assistant Professor</B>, 								Aug 2007 to July 2008</P>
-<p>  <B>Coordinator</B>, Digital Imaging Track 						, Aug 2007 to July 2008</P>
+    <p>  <B>Assistant Professor</B>, 								Aug 2007 to July 2008</P>
+    <p>  <B>Coordinator</B>, Digital Imaging Track 						, Aug 2007 to July 2008</P>
 
 * iSchool at the University of Illinois at Urbana-Champaign
-<p>  Instructor, Undergraduate Minor 							Aug 2006 to July 2007</P>
-<p>  Research Assistant, 								August 2003-July 2004 </P>
-<p>  Teaching Assistant, Graduate, and Undergraduate,		    	2001-2002, 2002-2003, 2005-2006</P>
+    <p>  Instructor, Undergraduate Minor 							Aug 2006 to July 2007</P>
+    <p>  Research Assistant, 								August 2003-July 2004 </P>
+    <p>  Teaching Assistant, Graduate, and Undergraduate,		    	2001-2002, 2002-2003, 2005-2006</P>
 
 
 Publications
