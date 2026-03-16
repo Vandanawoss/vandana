@@ -19,17 +19,15 @@ Education
 Work experience
 ======
 * <p>School of Information Sciences, University of Tennessee, Knoxville </p>- <B>Professor,</B> July 2022 - current
+* <p>College of Emerging and Collaborative Studies, University of Tennessee, Knoxville </p>- <B>Assistant Dean, Faculty Affairs and New Programs,</B> July 2024 - June 2025</p>- <B>Program Director,</B> July 2023 - June 2024
+  * <p>College of Communication, University of Tennessee, Knoxville - </p>- <B>Director of Diversity, Equity, and Inclusion</B>, July 2022 – June 2023
   
-*<p> College of Emerging and Collaborative Studies</P> - <p><B>Assistant Dean, Faculty Affairs and New Programs</B>, July 2024 - June 2025; </P> - <B>Program Director, </B>July 2023 – June 2024
-  
-* <p>College of Communication, University of Tennessee, Knoxville - </P>-<B>Director of Diversity, Equity, and Inclusion</B>, July 2022 – June 2023</P>
-   
 * <p>School of Information Sciences, University of Tennessee, Knoxville: </P>
- <p> -<B>Professor</B>, July 2022 - current; Associate Professor, Aug 2014 to June 2022;</P>
-<p>  -<B>Director of Undergraduate Studies</B>,						May 2017 to April 2019</P>
-<p>  -<B>Acting Associate Director</B>, School of Information Sciences, Jan 2013 to Aug 2013</P>
-<p>  -<B>Coordinator</B>, Information Science and Technology Minor, 				Aug 2008 to July 2011</P>
-<p>  -<B>Assistant Professor</B>, 								Aug 2008 to July 2014</P>
+ <p>-<B>Professor</B>, July 2022 - current; Associate Professor, Aug 2014 to June 2022;</P>
+<p>-<B>Director of Undergraduate Studies</B>,						May 2017 to April 2019</P>
+<p>-<B>Acting Associate Director</B>, School of Information Sciences, Jan 2013 to Aug 2013</P>
+<p>-<B>Coordinator</B>, Information Science and Technology Minor, 				Aug 2008 to July 2011</P>
+<p>-<B>Assistant Professor</B>, 								Aug 2008 to July 2014</P>
   
 * Department of Information Science, University of North Texas</P>
 <p>  <B>Assistant Professor</B>, 								Aug 2007 to July 2008</P>
